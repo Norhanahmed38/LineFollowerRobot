@@ -36,6 +36,8 @@ direction.
 ![Capققققققغغغغغغغغغغture](https://user-images.githubusercontent.com/112608294/189409020-8904062a-15e6-4b6e-9eb6-00ccf1a218ab.PNG)  
 In this case, both the sensors are on top of the line and they can detect the black line simultaneously, the microcontroller is fed to consider this situation as a process for halt. Hence, both the motors are stopped, which causes the robot to stop moving.
 
+![photo_2022-09-09_19-25-51](https://user-images.githubusercontent.com/112608294/189409779-6050777f-29b5-4f58-9ea7-62f4a7669efb.jpg)
+
 
 
 
